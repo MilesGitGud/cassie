@@ -1,5 +1,5 @@
 body {
-  background: rgb(44,47,51);
+  background: #36393E;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   overflow-x: hidden;
@@ -65,4 +65,8 @@ body {
 
 .footertext {
   color: gray;
+}
+
+.imgembed {
+  position: fixed;
 }
